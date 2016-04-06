@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gdi2290/ts-serve.git"
+    "url": "git+https://github.com/gdi2290/webpack-serve.git"
   },
   "author": "PatrickJS <github@gdi2290.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/gdi2290/ts-serve/issues"
+    "url": "https://github.com/gdi2290/webpack-serve/issues"
   },
-  "homepage": "https://github.com/gdi2290/ts-serve#readme"
+  "homepage": "https://github.com/gdi2290/webpack-serve#readme"
 }
